@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "download-pdf": "^0.1.6",
+    "pdf2json": "^2.0.0",
+    "readline-sync": "^1.4.10",
+    "zlib": "^1.0.5"
+  }
+}
