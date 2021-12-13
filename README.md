@@ -3,7 +3,7 @@
  
 ![image](https://user-images.githubusercontent.com/74570772/145906924-5e0ca0bf-213e-4825-8dce-2fd30fcfc722.png)
 
-Ele automaticamente criar uma pasta no mesmo diretorio:
+Ele automaticamente cria uma pasta no mesmo diretorio:
 
 ![image](https://user-images.githubusercontent.com/74570772/145907066-93d54f5e-9b6b-45c7-b44d-12afcc65e81f.png)
 
